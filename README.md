@@ -1,6 +1,6 @@
 # 🗝️ Academia de Lefay
 
-**Licenciado en Matemáticas y Divulgador** | Apasionado por inspirar y guiar a estudiantes de todos los niveles en el camino del conocimiento matemático.  
+**Licenciado en Matemáticas y Divulgador** (futuro **Científico de Datos** 🧠)| Apasionado por inspirar y guiar a estudiantes de todos los niveles en el camino del conocimiento matemático.  
 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCh1kUenyVt-pTDbEGJNUP6w?style=for-the-badge&logo=youtube&logoColor=red&labelColor=black&color=red&label=SUSCRÍBETE)](https://youtube.com/@Academia-Lefay)
 [![Discord](https://img.shields.io/badge/Únete_a_La_Academia_Lefay-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pBddfmv6Zv)
